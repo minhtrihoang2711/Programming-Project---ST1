@@ -1,3 +1,7 @@
+#Date : 21/8/2024
+#Create a python function
+#Name: Anthony
+#This function is to predict the what will the future price be.
 # This Function can be called from any from any front end tool/website(e.g Xboot)
 import pandas as pd
 from re import IGNORECASE

@@ -7,6 +7,11 @@ from sklearn.model_selection import train_test_split
 from xgboost import XGBRegressor
 
 
+#Date : 21/8/2024
+#Tkinter package
+#Name: Anthony
+#This function is to predict more value which are all selectable And Perdict the future close price.
+
 # Add Title and bring in the data
 class StockPricePredictionApp:
 
